@@ -6,7 +6,6 @@ package br.ufrn.imd.almoxarifado.dominio;
 import java.util.ArrayList;
 import java.util.Date;
 
-import br.ufrn.imd.almoxarifado.rh.Documento;
 import br.ufrn.imd.almoxarifado.rh.Funcionario;
 
 /**

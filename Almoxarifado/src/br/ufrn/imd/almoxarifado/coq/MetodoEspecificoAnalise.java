@@ -1,18 +1,18 @@
 /**
  * 
  */
-package br.ufrn.imd.almoxarifado.rh;
+package br.ufrn.imd.almoxarifado.coq;
 
 /**
  * @author Wellington Costa
  *
  */
-public class Documento {
+public class MetodoEspecificoAnalise {
 
 	/**
 	 * 
 	 */
-	public Documento() {
+	public MetodoEspecificoAnalise() {
 		// TODO Auto-generated constructor stub
 	}
 
